@@ -1,0 +1,29 @@
+[33mcommit 5fe10a3361893718a021b60b17c345e426a4fa67[m[33m ([m[1;36mHEAD -> [m[1;32mQA[m[33m, [m[1;31morigin/QA[m[33m)[m
+Author: JuanDavidSabogal <juan.1999.david@gmail.com>
+Date:   Tue Oct 26 13:12:45 2021 -0500
+
+    Errores de localizacion
+
+[33mcommit 1f5335312d0a353f7ba13c2de2b99b9110dc815b[m
+Author: JuanDavidSabogal <juan.1999.david@gmail.com>
+Date:   Tue Oct 26 12:55:12 2021 -0500
+
+    Pasamos a la rama QA
+
+[33mcommit b78a3809110e625a678bf5b1f98a6a704209c241[m[33m ([m[1;31morigin/miRama[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmiRama[m[33m, [m[1;32mmaster[m[33m)[m
+Author: JuanDavidSabogal <juan.1999.david@gmail.com>
+Date:   Tue Oct 26 11:35:00 2021 -0500
+
+    Se a actualizado avion y aeropuert por segunda vez
+
+[33mcommit d29a86ac331a3f50610169ba3910f42e9acc06af[m
+Author: JuanDavidSabogal <juan.1999.david@gmail.com>
+Date:   Tue Oct 26 11:09:26 2021 -0500
+
+    Se agrego un nuevo Avion y Nuevo Aeropuerto
+
+[33mcommit 04fe65841bda083ca732e8ad7435a5fce73b40c2[m
+Author: JuanDavidSabogal <juan.1999.david@gmail.com>
+Date:   Tue Oct 26 10:52:05 2021 -0500
+
+    Iniciamos el CommiT
