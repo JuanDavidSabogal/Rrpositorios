@@ -7,3 +7,7 @@ INSERT INTO aeropuerto VALUES(10,'FR','XJ05-05');
 INSERT INTO aeropuerto VALUES(11,'IT','XJ06-06');
 INSERT INTO aeropuerto VALUES(12,'MX','XJ07-07');
 INSERT INTO aeropuerto VALUES (13,'VN','XJ08-08');
+INSERT INTO aeropuerto VALUES (14,'FN','XJ09-09');
+
+
+

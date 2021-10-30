@@ -14,3 +14,4 @@ INSERT INTO avion VALUES ('XJ05-05' , 160 , 'Rusia' , 15);
 INSERT INTO avion VALUES ('XJ06-06' , 158 , 'Francia' , 9);
 INSERT INTO avion VALUES ('XJ07-07' , 180 , 'Italia' , 9);
 INSERT INTO avion VALUES ('XJ08-08' , 180 , 'España' , 9);
+INSERT INTO avion VALUES ('XJ09-09' , 100 , 'Colombia', 7);
